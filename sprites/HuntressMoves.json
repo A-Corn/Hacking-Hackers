@@ -1,0 +1,459 @@
+{ "frames": [
+   {
+    "filename": "HuntressMoves 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 1.ase",
+    "frame": { "x": 91, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 2.ase",
+    "frame": { "x": 182, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 3.ase",
+    "frame": { "x": 273, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 4.ase",
+    "frame": { "x": 364, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 5.ase",
+    "frame": { "x": 455, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 6.ase",
+    "frame": { "x": 546, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 7.ase",
+    "frame": { "x": 637, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 8.ase",
+    "frame": { "x": 728, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 9.ase",
+    "frame": { "x": 819, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 10.ase",
+    "frame": { "x": 910, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 11.ase",
+    "frame": { "x": 1001, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 12.ase",
+    "frame": { "x": 1092, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 13.ase",
+    "frame": { "x": 1183, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 14.ase",
+    "frame": { "x": 1274, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 15.ase",
+    "frame": { "x": 1365, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 16.ase",
+    "frame": { "x": 1456, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 17.ase",
+    "frame": { "x": 1547, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 18.ase",
+    "frame": { "x": 1638, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 19.ase",
+    "frame": { "x": 1729, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 20.ase",
+    "frame": { "x": 1820, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 21.ase",
+    "frame": { "x": 1911, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 22.ase",
+    "frame": { "x": 2002, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 23.ase",
+    "frame": { "x": 2093, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 24.ase",
+    "frame": { "x": 2184, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 25.ase",
+    "frame": { "x": 2275, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 26.ase",
+    "frame": { "x": 2366, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 27.ase",
+    "frame": { "x": 2457, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 28.ase",
+    "frame": { "x": 2548, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 29.ase",
+    "frame": { "x": 2639, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 30.ase",
+    "frame": { "x": 2730, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 31.ase",
+    "frame": { "x": 2821, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 32.ase",
+    "frame": { "x": 2912, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 33.ase",
+    "frame": { "x": 3003, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 34.ase",
+    "frame": { "x": 3094, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 35.ase",
+    "frame": { "x": 3185, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 36.ase",
+    "frame": { "x": 3276, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 37.ase",
+    "frame": { "x": 3367, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 38.ase",
+    "frame": { "x": 3458, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 39.ase",
+    "frame": { "x": 3549, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 40.ase",
+    "frame": { "x": 3640, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 41.ase",
+    "frame": { "x": 3731, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 42.ase",
+    "frame": { "x": 3822, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 43.ase",
+    "frame": { "x": 3913, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 44.ase",
+    "frame": { "x": 4004, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 45.ase",
+    "frame": { "x": 4095, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 46.ase",
+    "frame": { "x": 4186, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "HuntressMoves 47.ase",
+    "frame": { "x": 4277, "y": 0, "w": 91, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 66 },
+    "sourceSize": { "w": 91, "h": 66 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1",
+  "image": "HuntressMoves.png",
+  "format": "RGBA8888",
+  "size": { "w": 4368, "h": 66 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Attack1", "from": 0, "to": 4, "direction": "forward" },
+   { "name": "Attack2", "from": 5, "to": 9, "direction": "forward" },
+   { "name": "Attack3", "from": 10, "to": 16, "direction": "forward" },
+   { "name": "Death", "from": 17, "to": 24, "direction": "forward" },
+   { "name": "Fall", "from": 25, "to": 26, "direction": "forward" },
+   { "name": "Idle", "from": 27, "to": 34, "direction": "forward" },
+   { "name": "Jump", "from": 35, "to": 36, "direction": "forward" },
+   { "name": "Run", "from": 37, "to": 44, "direction": "forward" },
+   { "name": "TakeHit", "from": 45, "to": 47, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,440 @@
+{ "frames": [
+   {
+    "filename": "EvilWizardMoves 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 1.ase",
+    "frame": { "x": 169, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 2.ase",
+    "frame": { "x": 338, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 3.ase",
+    "frame": { "x": 507, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 4.ase",
+    "frame": { "x": 676, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 5.ase",
+    "frame": { "x": 845, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 6.ase",
+    "frame": { "x": 1014, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 7.ase",
+    "frame": { "x": 1183, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 8.ase",
+    "frame": { "x": 1352, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 9.ase",
+    "frame": { "x": 1521, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 10.ase",
+    "frame": { "x": 1690, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 11.ase",
+    "frame": { "x": 1859, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 12.ase",
+    "frame": { "x": 2028, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 13.ase",
+    "frame": { "x": 2197, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 14.ase",
+    "frame": { "x": 2366, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 15.ase",
+    "frame": { "x": 2535, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 16.ase",
+    "frame": { "x": 2704, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 17.ase",
+    "frame": { "x": 2873, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 18.ase",
+    "frame": { "x": 3042, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 19.ase",
+    "frame": { "x": 3211, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 20.ase",
+    "frame": { "x": 3380, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 21.ase",
+    "frame": { "x": 3549, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 22.ase",
+    "frame": { "x": 3718, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 23.ase",
+    "frame": { "x": 3887, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 24.ase",
+    "frame": { "x": 4056, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 25.ase",
+    "frame": { "x": 4225, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 26.ase",
+    "frame": { "x": 4394, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 27.ase",
+    "frame": { "x": 4563, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 28.ase",
+    "frame": { "x": 4732, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 29.ase",
+    "frame": { "x": 4901, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 30.ase",
+    "frame": { "x": 5070, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 31.ase",
+    "frame": { "x": 5239, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 32.ase",
+    "frame": { "x": 5408, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 33.ase",
+    "frame": { "x": 5577, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 34.ase",
+    "frame": { "x": 5746, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 35.ase",
+    "frame": { "x": 5915, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 36.ase",
+    "frame": { "x": 6084, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 37.ase",
+    "frame": { "x": 6253, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 38.ase",
+    "frame": { "x": 6422, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 39.ase",
+    "frame": { "x": 6591, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 40.ase",
+    "frame": { "x": 6760, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 41.ase",
+    "frame": { "x": 6929, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 42.ase",
+    "frame": { "x": 7098, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 43.ase",
+    "frame": { "x": 7267, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 44.ase",
+    "frame": { "x": 7436, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   },
+   {
+    "filename": "EvilWizardMoves 45.ase",
+    "frame": { "x": 7605, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "sourceSize": { "w": 169, "h": 142 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1",
+  "image": "EvilWizardMoves.png",
+  "format": "RGBA8888",
+  "size": { "w": 7774, "h": 142 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Attack1", "from": 0, "to": 7, "direction": "forward" },
+   { "name": "Attack2", "from": 8, "to": 15, "direction": "forward" },
+   { "name": "Death", "from": 16, "to": 22, "direction": "forward" },
+   { "name": "Fall", "from": 23, "to": 24, "direction": "forward" },
+   { "name": "Idle", "from": 25, "to": 32, "direction": "forward" },
+   { "name": "Jump", "from": 33, "to": 34, "direction": "forward" },
+   { "name": "Run", "from": 35, "to": 42, "direction": "forward" },
+   { "name": "TakeHit", "from": 43, "to": 45, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
